@@ -766,7 +766,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 - Prize Spellbooks; willing to trade.
 
 **Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Зачаруй_, _Адкажы_, _Адштурхні/Прыцягні_, _Абарані_)
+12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _[Зачаруй](#charm)_, _[Адкажы](#hypnotize)_, _[Адштурхні/Прыцягні](#push/pull)_, _[Абарані](#shield)_)
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
 - Critical damage: leech a part of the victim's soul (1d4 WIL damage).
 
@@ -781,7 +781,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 - Critical damage: moss and twigs begin growing out of target's wounds.
 
 **Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Тэлепорт_, _Заўваж чары_)
+14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _[Чароўны сон](#sleep)_, _[Тэлепорт](#teleport)_, _[Заўваж чары](#detect-magic)_)
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.
 
