@@ -51,7 +51,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 ### Агульныя мэты
 Гульцы разам будуюць свет, выконваюць групавыя чэленджы, ставяць мэты персанажам і дасягаюць іх. Такім чынам, каманда звычайна працуе разам дзеля агульнай мэты.
 
-[да зместу](#index)
+[вярнуцца да зместу](#index)
 
 ## Прынцыпы для Наглядчыкаў
 ### Інфармацыя
@@ -100,7 +100,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 - У такіх абставінах кіньце 1d6. Калі выпала 4 і болей, звычайна значыць, што героям пашчасціла.
 - Вынік 3 і меней значыць няўдачу для герояў і іх паплечнікаў.
 
-[да зместу](#index)
+[вярнуцца да зместу](#index)
 
 ## Прынцыпы для Гульцоў
 ### Уплыў на аповед
@@ -134,7 +134,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 - Не чакайце неабгрунтаванага прыязнага стаўлення. Будуйце сваю рэпутацыю.
 - Працягвайце рухаць аповед уперад, каб убачыць, што адбудзецца далей.
 
-[да зместу](#index)
+[вярнуцца да зместу](#index)
 
 ## Стварэнне персанажа
 
@@ -589,7 +589,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
 |Thundering Horn                           |
 
-[да зместу](#index)
+[вярнуцца да зместу](#index)
 
 ## Правілы
 ### Здольнасці
@@ -755,7 +755,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
-[да зместу](#index)
+[вярнуцца да зместу](#index)
 
 ## Bestiary
 
@@ -821,7 +821,7 @@ Some pointers:
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
-[да зместу](#index)
+[вярнуцца да зместу](#index)
 
 ## 100 Spells
 
@@ -928,7 +928,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 |99 |<a name="elemental-wall">[Элементальная сцяна](#elemental-wall)</a>         |A straight wall of ice or fire 50ft long and 10ft high rises from the ground.|
 |100|<a name="pit">[Яма](#pit)</a>                                               |A pit 10ft wide and 10ft deep opens in the ground.|
 
-[да зместу](#index)
+[вярнуцца да зместу](#index)
 
 # Rules Summary
 
