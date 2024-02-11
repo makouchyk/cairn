@@ -7,7 +7,6 @@ nav_order: 2
 # Cairn System Reference Document (v.1.0)
 {: .no_toc }
 
-<p></p>
 
 **Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
@@ -53,7 +52,6 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 Гульцы разам будуюць свет, выконваюць групавыя чэленджы, ставяць мэты персанажам і дасягаюць іх. Такім чынам, каманда звычайна працуе разам дзеля агульнай мэты.
 
 [да зместу](#index)
-<p></p>
 
 ## Прынцыпы для Наглядчыкаў
 ### Інфармацыя
@@ -103,7 +101,6 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 - Вынік 3 і меней значыць няўдачу для герояў і іх паплечнікаў.
 
 [да зместу](#index)
-<p></p>
 
 ## Прынцыпы для Гульцоў
 ### Уплыў на аповед
@@ -138,7 +135,6 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 - Працягвайце рухаць аповед уперад, каб убачыць, што адбудзецца далей.
 
 [да зместу](#index)
-<p></p>
 
 ## Стварэнне персанажа
 
@@ -185,7 +181,6 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 
 Калі хочаце, каб ваш персанаж быў набліжаны да традыцыйных класаў, звярніцеся да раздзелу [**Наборы рыштунку**](#наборы-рыштунку).
 
-<p></p>
 
 ## Імя і Паходжанне (d20)
 
@@ -229,7 +224,6 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 | 4 | Мяснік   | 9  | Траўнік       | 14 | Шахцёр    | 19 | Служка        |
 | 5 | Цясляр   | 10 | Паляўнічы     | 15 | Разбойнік | 20 | Ляснічы       |
 
-<p></p>
 
 ## Рысы персанажа (d10)
 
@@ -333,7 +327,6 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 | 4 | Асуджаны    | 9  | Ад вас адракліся   |
 | 5 | Пракляты    | 10 | У выгнанні         |
 
-<p></p>
 
 ## Пачатковы рыштунак (d20)
 
@@ -395,8 +388,6 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |            1-5           |           6-13          |        14-17       |      18-20     |
 | Інструмент альбо Дробязь | Рыштунак для экспедыцыі | Зброя альбо Даспех | Кніга закляцця |
 
-<p></p>
-
 #### Кнігі закляццяў (d100)
 
 |    |                    |    |                  |    |                          |     |                      |
@@ -427,7 +418,6 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |24|[Загад](#command)                   |49|[Нюх](#sniff)                        |74|[Свяці](#illuminate)                         |99 |[Элементальная сцяна](#elemental-wall)|
 |25|[Залунай](#hover)                   |50|[Нябачная прывязь](#invisible-tether)|75|[Скокні](#leap)                              |100|[Яма](#pit)|
 
-<p></p>
 
 ## Спіс экіпіроўкі (кошт у талерах)
 
@@ -486,7 +476,6 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 | Лінза                         | 10  | Шыпаваныя боты                  | 5  |
 | Малаток                       | 5   | Якар-кошка                      | 25 |
 
-<p></p>
 
 ## Наборы рыштунку
 
@@ -601,7 +590,6 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |Thundering Horn                           |
 
 [да зместу](#index)
-<p></p>
 
 ## Правілы
 ### Здольнасці
@@ -768,7 +756,6 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
 [да зместу](#index)
-<p></p>
 
 ## Bestiary
 
@@ -835,7 +822,6 @@ Some pointers:
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 [да зместу](#index)
-<p></p>
 
 ## 100 Spells
 
@@ -943,7 +929,6 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 |100|<a name="pit">[Яма](#pit)</a>                                               |A pit 10ft wide and 10ft deep opens in the ground.|
 
 [да зместу](#index)
-<p></p>
 
 # Rules Summary
 
