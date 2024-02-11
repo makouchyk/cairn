@@ -24,7 +24,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 {:toc}
 </details>
 
-## Overview
+## Агляд
 
 **Cairn** быў створаны з наступнымі ідэямі:
 
@@ -52,7 +52,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 ### Агульныя мэты
 Гульцы разам будуюць свет, выконваюць групавыя чэленджы, ставяць мэты персанажам і дасягаюць іх. Такім чынам, каманда звычайна працуе разам дзеля агульнай мэты.
 
-[back to index](#index)
+[да зместу](#index)
 <p></p>
 
 ## Прынцыпы для Наглядчыкаў
@@ -102,7 +102,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 - У такіх абставінах кіньце 1d6. Калі выпала 4 і болей, звычайна значыць, што героям пашчасціла.
 - Вынік 3 і меней значыць няўдачу для герояў і іх паплечнікаў.
 
-[back to index](#index)
+[да зместу](#index)
 <p></p>
 
 ## Прынцыпы для Гульцоў
@@ -137,15 +137,15 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 - Не чакайце неабгрунтаванага прыязнага стаўлення. Будуйце сваю рэпутацыю.
 - Працягвайце рухаць аповед уперад, каб убачыць, што адбудзецца далей.
 
-[back to index](#index)
+[да зместу](#index)
 <p></p>
 
 ## Стварэнне персанажа
 
 #### Імя, Паходжанне і Рысы
-Спачатку выберыце (на ваш густ або кінуўшы косць) **імя** і **паходжанне** свайго героя з адпаведнай [табліцы](#name--background-d20). Паходжанне вызначае патэнцыйныя веды і навыкі героя.
+Спачатку выберыце (на ваш густ або кінуўшы косць) **імя** і **паходжанне** свайго героя з адпаведнай [табліцы](#імя-і-паходжанне-d20). Паходжанне вызначае патэнцыйныя веды і навыкі героя.
 
-Далей кіньце косць на **рысы** вашага персанажа (знешнасць, маўленне, манеры, павер’і, рэпутацыю і г. д.) з табліцы [**Рысы персанажа**](#character-traits-d10).
+Далей кіньце косць на **рысы** вашага персанажа (знешнасць, маўленне, манеры, павер’і, рэпутацыю і г. д.) з табліцы [**Рысы персанажа**](#рысы-персанажа-d10).
 
 Нарэшце кіньце косць, каб вызначыць **узрост** (2d20+10).
 
@@ -161,7 +161,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 </details>
 
 ### Абарона ад атак
-Кіньце 1d6, каб вызначыць пачатковую **Абарону ад атак** (ААА), якая адлюстроўвае здольнасць персанажа пазбягаць урону ў баі. ААА не паказвае здароўе і стойкасць духу, і персанажы не губляюць яе надоўга (глядзі **Узнаўленне**). Калі атака зніжае ААА героя роўна да 0, гулец павінен кінуць косць на [**Шнары**](/cairn-srd#шнары-1).
+Кіньце 1d6, каб вызначыць пачатковую **Абарону ад атак** (ААА), якая адлюстроўвае здольнасць персанажа пазбягаць урону ў баі. ААА не паказвае здароўе і стойкасць духу, і персанажы не губляюць яе надоўга (глядзі **Узнаўленне**). Калі атака зніжае ААА героя роўна да 0, гулец павінен кінуць косць на [**Шнары**](#шнары-1).
 
 #### Інвентар
 Персанажы маюць агулам 10 ячэек інвентара: заплечнік з шасцю ячэйкамі, па адной ячэйцы ў кожнай руцэ і дзве ячэйкі на верхнюю частку цела (напрыклад, на рэмені, на грудзях альбо на галаве). Заплечнік, калі яго вызваліць ад змесціва, таксама можа выконваць ролю спальніка.
@@ -179,11 +179,11 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 - паходняй (адна ячэйка);
 - 3d6 талерамі.
 
-Кіньце па адной косці на кожную з табліц у раздзеле **Пачатковы рыштунак**, каб вызначыць даспехі, зброю, інструменты і іншую экіпіроўку. Кіньце d100 (альбо 2d10, дзе адна косць вызначае дзясяткі, а другая - адзінкі) на [**Кнігі закляццяў**](#spellbooks-d100). Вазьміце па адной рэчы за кожны вынік.
+Кіньце па адной косці на кожную з табліц у раздзеле **Пачатковы рыштунак**, каб вызначыць даспехі, зброю, інструменты і іншую экіпіроўку. Кіньце d100 (альбо 2d10, дзе адна косць вызначае дзясяткі, а другая - адзінкі) на [**Кнігі закляццяў**](#кнігі-закляццяў-d100). Вазьміце па адной рэчы за кожны вынік.
 
 Значэнні брані, урону і колькасці патрэбных ячэек пералічаны ў раздзеле **Спіс экіпіроўкі**. Меншыя рэчы часам можна пакаваць у адзін слот.
 
-Калі хочаце, каб ваш персанаж быў набліжаны да традыцыйных класаў, звярніцеся да раздзелу [**Наборы рыштунку**](#optional-gear-packages).
+Калі хочаце, каб ваш персанаж быў набліжаны да традыцыйных класаў, звярніцеся да раздзелу [**Наборы рыштунку**](#наборы-рыштунку).
 
 <p></p>
 
@@ -600,7 +600,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
 |Thundering Horn                           |
 
-[back to index](#index)
+[да зместу](#index)
 <p></p>
 
 ## Правілы
@@ -646,7 +646,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 ### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#стварэнне-персанажа) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
 ### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
@@ -735,7 +735,7 @@ If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are 
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Шнары
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#шнары-1) table for more.
+When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](#шнары-1) table for more.
 
 ### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
@@ -767,7 +767,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
-[back to index](#index)
+[да зместу](#index)
 <p></p>
 
 ## Bestiary
@@ -834,7 +834,7 @@ Some pointers:
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
-[back to index](#index)
+[да зместу](#index)
 <p></p>
 
 ## 100 Spells
@@ -942,7 +942,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 99  | [Элементальная сцяна](#elemental-wall)        | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
 | 100 | [Яма](#pit)                                   | A pit 10ft wide and 10ft deep opens in the ground.           |
 
-[back to index](#index)
+[да зместу](#index)
 <p></p>
 
 # Rules Summary
@@ -992,7 +992,7 @@ No one can have more than 3 Armor.
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**  
-If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#шнары-1) table.
+If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](#шнары-1) table.
  
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
 
