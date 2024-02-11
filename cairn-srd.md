@@ -161,7 +161,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 </details>
 
 ### Абарона ад атак
-Кіньце 1d6, каб вызначыць пачатковую **Абарону ад атак** (ААА), якая адлюстроўвае здольнасць персанажа пазбягаць урону ў баі. ААА не паказвае здароўе і стойкасць духу, і персанажы не губляюць яе надоўга (глядзі **Узнаўленне**). Калі атака зніжае ААА героя роўна да 0, гулец павінен кінуць косць на [**Шнары**](/cairn-srd#scars-1).
+Кіньце 1d6, каб вызначыць пачатковую **Абарону ад атак** (ААА), якая адлюстроўвае здольнасць персанажа пазбягаць урону ў баі. ААА не паказвае здароўе і стойкасць духу, і персанажы не губляюць яе надоўга (глядзі **Узнаўленне**). Калі атака зніжае ААА героя роўна да 0, гулец павінен кінуць косць на [**Шнары**](/cairn-srd#шнары-1).
 
 #### Інвентар
 Персанажы маюць агулам 10 ячэек інвентара: заплечнік з шасцю ячэйкамі, па адной ячэйцы ў кожнай руцэ і дзве ячэйкі на верхнюю частку цела (напрыклад, на рэмені, на грудзях альбо на галаве). Заплечнік, калі яго вызваліць ад змесціва, таксама можа выконваць ролю спальніка.
@@ -735,7 +735,7 @@ If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are 
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Шнары
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#шнары-1) table for more.
 
 ### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
@@ -992,7 +992,7 @@ No one can have more than 3 Armor.
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**  
-If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
+If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#шнары-1) table.
  
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
 
