@@ -841,7 +841,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 |     |                                               |                                                              |
 | --- | --------------------------------------------- | ------------------------------------------------------------ |
-| 1   | [Абарані](#shield)                            | A creature you touch is protected from mundane attacks for one minute. |
+| 1   | <a name=shield>[Абарані](#shield)</a>                            | A creature you touch is protected from mundane attacks for one minute. |
 | 2   | [Абмен целамі](#body-swap)                    | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
 | 3   | [Абярэг](#ward)                               | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
 | 4   | [Аглохні](#deafen)                            | All nearby creatures are deafened.                           |
