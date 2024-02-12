@@ -487,7 +487,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 | Chainmail (2 Armor, bulky)        |
 | Gauntlets (+1 Armor)              |
 | Cleansing Blade (d6)              |
-| Holy Symbol (_Абярэг_ once per day) |
+| Holy Symbol (_[Абярэг](#ward)_ once per day) |
 | Cloak of the Order                |
 
 #### Dowser
@@ -497,7 +497,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |Sickle (d6)                                |
 |Patchwork Doublet (+1 Armor)               |
 |Dowsing Rod                                |
-|Eyestone (_Пачуццё_ if placed in fresh water)|
+|Eyestone (_[Пачуццё](#sense)_ if placed in fresh water)|
 |Worn Map                                   |
 |Spyglass                                   |
 
@@ -519,7 +519,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 |Elegant Sword (d8)                       |
 |Recurve Bow (d8)                         |
 |Gilt Clothing (1 Armor)                  |
-|Spellbook (_Зачаруй_ or _Заўваж чары_)    |
+|Spellbook (_[Зачаруй](#charm)_ or _[Заўваж чары](#detect-magic)_)    |
 |Golden Flute                             |
 |Air Bladder                              |
 
