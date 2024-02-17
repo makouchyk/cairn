@@ -602,13 +602,13 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 **Воля**: Выкарыстоўваецца пры спробе пераканаць, падмануць, дапытаць, запалохаць, зачараваць, справакаваць і г. д.
 
 ### Праверкі
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+Кідок косці, які кідаюць каб пазбегнуць наступстваў рызыкоўных выбараў і неспрыяльных абставін, называецца праверка. Гулец кідае d20 і параўновае са значэннем адпаведнай здольнасці. Калі вынік на косці роўны альбо меншы за значэнне здольнісці, герой пазбягае наступстваў. Калі большы - пазбегнуць наступстваў не атрымалася. 1 - заўсёды поспех, 20 - заўсёды правал.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Прыклад
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+ _Бэа сустракае групу цяжкаўзброеных гоблінаў, якія ахоўваюць уваход у тунэль. Гулец вырашае, што 13 Спрыту дазволіць Бэа пракрасціся міма вартавых незаўважанай. Гулец выкідвае 10 на d20 - поспех!_
 </details>
 
 ### Узнаўленне
@@ -617,10 +617,10 @@ Resting for a few moments and having a drink of water restores lost HP but leave
 ### Deprivation & Fatigue
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
 
-### Armor
+### Браня
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+Значэнне Брані не можа быць вышэй за 3.
+Шчыты, латныя пальчаткі і шлемы могуць даваць дадатковыя перавагі, акрамя брані, адпаведна іх ролі.
 
 ### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
@@ -667,7 +667,7 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 
 **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Благушка** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
 
 ## Combat
 
