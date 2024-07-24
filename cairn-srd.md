@@ -612,28 +612,28 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 </details>
 
 ### Узнаўленне
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+Кароткі адпачынак аднаўляе згубленую ААА, але пакідае вашу групу ўразлівай для атак. Страчаныя здольнасці (глядзі **Critical Damage**) можна аднавіць, адпачыўшы тыдзень, з дапамогай клірыка, альбо іншай крыніцы медычнага досведу. Некаторыя паслугі бясплатныя, але за магічную дапамогу давядзецца заплаціць.
 
-### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+### Незадаволеныя патрэбы і стомленасць
+Герой з **незадаволенай патрэбай** (напрыклад у ежы ці адпачынку) не можа аднаўляць ААА і значэнні здольнасцяў. За кожны дзень з незадаволенай патрэбай герой кладзе ў інвентар **стомленасць**. Кожная адзінка стомленасці займае адзін слот у інвентары і застаецца там, пакуль герой яе не задаволіць (напрыклад, паўнавартасна адпачыўшы ў бяспечным месцы). Героі таксама могуць атрымаць стомленасць праз **чараванне** і сюжэтныя падзеі.
 
 ### Браня
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-Значэнне Брані не можа быць вышэй за 3.
-Шчыты, латныя пальчаткі і шлемы могуць даваць дадатковыя перавагі, акрамя брані, адпаведна іх ролі.
+Значэнне Брані не можа быць вышэйшым за 3.
+Перад тым, як падлічваць урон да ААА, адніміце значэнне **Брані** цэлі ад выніку кідка на ўрон. Шчыты, латныя пальчаткі і шлемы могуць даваць не толькі браню, але і дадатковыя перавагі адпаведна іх ролі. Шчыты і падобны рыштунак паляпшаюць абарону (напрыклад, +1 Брані), але толькі пакуль гэтая рэч надзетая або знаходзіцца ў руках.
 
-### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+### Рэакцыі
+Калі Героі напаткалі негульнявога персанажа, стаўленне якога да групы не відавочнае, Наглядчык можа кінуць 2d6 і паглядзець у наступную табліцу:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| Варожы | Насцярожаны | Зацікаўлены | Ветлівы | Гатовы дапамагчы |
 
-### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+### Мараль
+Ворагі павінны прайсці праверку Волі, каб працягнуць бой пасля першай ахвяры з іхняга боку, і яшчэ адну - калі яны губляюць палову ад іхняй пачатковай колькасці. Некаторыя групы для праходжання праверкі могуць карыстацца Воляй свайго лідара замест уласнай Волі. Адзінокія ворагі павінны прайсці праверку, калі іх ААА паніжаецца да 0. Мараль не датычыцца Герояў.
 
-### Hirelings
+### Найміты
+Персанажы гульцоў могуць наняць **наймітаў**. Каб стварыць найміта, кінь
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#стварэнне-персанажа) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
 ### Wealth & Treasure
@@ -946,7 +946,6 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 - Roll a d20 equal to or under an ability.
 - 1 is always a success, 20 is always a failure.
 
-**HIT PROTECTION**  
 **HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
 
 **INVENTORY**  
