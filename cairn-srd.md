@@ -638,24 +638,23 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 ### Багацце і Скарбы
 Самая распаўсюджаная манета - залаты. Яго кошт роўны 10 срэбранікаў і 100 медзякоў.
 
-Скарбы - вельмі дарагія, звычайна грувасткія і рэдка маюць карысць акрамя іх кошту, часта пад абаронай страшных ворагаў. Шукаючы скарбы, персанажы гульцоў трапяць у экзатычныя і небяспечныя лакацыі.
+Скарбы - вельмі дарагія рэчы, звычайна грувасткія і рэдка маюць карысць акрамя іх кошту, часта пад абаронай страшных ворагаў. Шукаючы скарбы, персанажы гульцоў трапяць у экзатычныя і небяспечныя лакацыі.
 
-Вёскі, замкі і порты займаюцца бартэрам і гандлем, 
-Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+Вёскі, замкі і порты могуць выкупіць здабытыя скарбы. Кошт залежыць ад рэдкасці таго, што вы прапануеце, у гэтых мясцінах.
 
-## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+## Чары
+**Кнігі закляццяў** утрымліваюць адзін заклён і займаюць адзін слот. Іх нельга стварыць альбо перапісаць. Адзіны спосаб здабыць кнігу закляццяў - знайсці ўжо напісаную ў склепе, падзямеллі ці маёнтку.
 
 Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
 
 Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
 
-**Scrolls** are similar to Spellbooks, however:
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+**Скруткі закляццяў** падобныя да кніг закляццяў, аднак:
+- Яны не займаюць слот у інвентары.
+- Яны не выклікаюць стому.
+- Яны знікаюць пасля выкарыстання.
 
-### Casting Spells
+### Чараванне
 Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
 ### Relics
