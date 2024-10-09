@@ -612,7 +612,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 </details>
 
 ### Узнаўленне
-Кароткі адпачынак аднаўляе згубленую HP, але пакідае вашу групу ўразлівай для атак. Страчаныя здольнасці (глядзі **Critical Damage**) можна аднавіць, адпачыўшы тыдзень, з дапамогай клірыка, альбо іншай крыніцы медычнага досведу. Некаторыя паслугі бясплатныя, але за магічную дапамогу давядзецца заплаціць.
+Кароткі адпачынак аднаўляе згубленую HP, але пакідае вашу групу ўразлівай для атак. Страчаныя здольнасці (глядзі **`Крытычны Ўрон`**) можна аднавіць, адпачыўшы тыдзень, з дапамогай клірыка, альбо іншай крыніцы медычнага досведу. Некаторыя паслугі бясплатныя, але за магічную дапамогу давядзецца заплаціць.
 
 ### Незадаволеныя патрэбы і стомленасць
 Герой з **незадаволенай патрэбай** (напрыклад у ежы ці адпачынку) не можа аднаўляць HP і значэнні здольнасцяў. За кожны дзень з незадаволенай патрэбай герой кладзе ў інвентар **стомленасць**. Кожная адзінка стомленасці займае адзін слот у інвентары і застаецца там, пакуль герой яе не задаволіць (напрыклад, паўнавартасна адпачыўшы ў бяспечным месцы). Героі таксама могуць атрымаць стомленасць праз **чараванне** і сюжэтныя падзеі.
@@ -643,11 +643,11 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 Вёскі, замкі і порты могуць выкупіць здабытыя скарбы. Кошт залежыць ад рэдкасці таго, што вы прапануеце, у гэтых мясцінах.
 
 ## Чары
-**Кнігі закляццяў** утрымліваюць адзін заклён і займаюць адзін слот. Іх нельга стварыць альбо перапісаць. Адзіны спосаб здабыць кнігу закляццяў - знайсці ўжо напісаную ў склепе, падзямеллі ці маёнтку.
+**Кнігі закляццяў** утрымліваюць адзін заклён і займаюць адзін слот. Іх нельга стварыць з нуля альбо перапісаць. Адзіны спосаб здабыць кнігу закляццяў - знайсці ўжо напісаную ў склепе, падзямеллі, закінутым маёнтку ці іншай небяспечнай лакацыі.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+Кнігі закляццаў часам могуць мець дзіўныя асаблівасці альбо абмежаванні. Такія як: смурод пры адкрыцці, уласны розум, альбо іх можны прачытаць толькі трымаючы пад святлом месяца.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+Кнігі закляццяў прыцягваюць увагу тых, хто прагне таемных ведаў унутры. Паказываць, што ты маеш кнігу закляццяў, незнаёмцам лічыцца небяспечным.
 
 **Скруткі закляццяў** падобныя да кніг закляццяў, аднак:
 - Яны не займаюць слот у інвентары.
@@ -655,7 +655,7 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 - Яны знікаюць пасля выкарыстання.
 
 ### Чараванне
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+Хто заўгодна можа чараваць, трымаючы Кнігу закляццаў у абедзвюх руках і чытаючы яе ўслых. Пасля той, хто чытаў закляцце, павінен пакласці сабе ў інвентар Стомленасць, якая займае адзін слот у інвентары. Калі заклён чытаецца ў бяспецы і чараўнік мае дастаткова часу, персанаж гульца можа _пашырыць_ уплыў заклёна. Напрыклад, на некалькі цэляў адначасова, альбо павысіць сілу чар. Калі персанаж гульца мае незадаволеныя патрэбы ці ў небяспецы, Наглядчык можа патрабаваць, каб персанаж гульца прайшоў праверку Волі, каб пазбегнуць дрэнных наступстваў чаравання. Адмоўныя наступствы заклёна адпавядаюць яго прызначэнню і могуць выклікаць Стомленасць, траўму, знішчэнне кнігі закляццяў і нават смерць чараўніка.
 
 ### Relics
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
@@ -712,7 +712,7 @@ If attacking with two weapons at the same time, roll both damage dice and keep t
 ### Blast
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
-### Critical Damage
+### Крытычны Ўрон
 Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
