@@ -657,16 +657,16 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 ### Чараванне
 Хто заўгодна можа чараваць, трымаючы Кнігу закляццаў у абедзвюх руках і чытаючы яе ўслых. Пасля той, хто чытаў закляцце, павінен пакласці сабе ў інвентар Стомленасць, якая займае адзін слот у інвентары. Калі заклён чытаецца ў бяспецы і чараўнік мае дастаткова часу, персанаж гульца можа _пашырыць_ уплыў заклёна. Напрыклад, на некалькі цэляў адначасова, альбо павысіць сілу чар. Калі персанаж гульца мае незадаволеныя патрэбы ці ў небяспецы, Наглядчык можа патрабаваць, каб персанаж гульца прайшоў праверку Волі, каб пазбегнуць дрэнных наступстваў чаравання. Адмоўныя наступствы заклёна адпавядаюць яго прызначэнню і могуць выклікаць Стомленасць, траўму, знішчэнне кнігі закляццяў і нават смерць чараўніка.
 
-### Relics
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
+### Рэліквіі
+**Рэліквіі** - гэта рэчы, прасякнутыя чарамі ці таямнічай сілай. Яны не выклікаюць стомленасць. Рэліквіі звычайна можна выкарыстаць абмежаваную колькасць разоў. Пасля гэтага, каб імі карыстацца далей, трэба выканаць ўмовы перазарадкі. Напрыклад:
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
+**Honeyclasp** , 3 зарады. Іржвы пярсцёнак, які, калі яго надзець, памяншае ваш рост да 6 цаляў. Перазарадка: пакладзіце ў кубачак памерам з напарстак, напоўнены каралеўскім жэле.
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Хуткасць_ spell. Recharge: fire from a crossbow and recover.
+**Сябра сакольніка**, 1 зарад. Палачка ў форме стралы, якая ўтрымлівае чары _Хуткасць_. Перазарадк: стрэльні ёй з арбалета і адшукай.
 
 **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
 
-**Благушка** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Благушка** , аднаразовая. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
 
 ## Combat
 
