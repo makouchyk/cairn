@@ -608,7 +608,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
   <summary>
 Прыклад
  </summary>
- _Бэа сустракае групу цяжкаўзброеных гоблінаў, якія ахоўваюць уваход у тунэль. Гулец вырашае, што 13 Спрыту дазволіць Бэа пракрасціся міма вартавых незаўважанай. Гулец выкідвае 10 на d20 - поспех!_
+ _Бэла сустракае групу цяжкаўзброеных гоблінаў, якія ахоўваюць уваход у тунэль. Гулец вырашае, што 13 Спрыту дазволіць Бэле пракрасціся міма вартавых незаўважанай. Гулец выкідвае 10 на d20 - поспех!_
 </details>
 
 ### Узнаўленне
@@ -658,48 +658,48 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 Хто заўгодна можа чараваць, трымаючы Кнігу закляццаў у абедзвюх руках і чытаючы яе ўслых. Пасля той, хто чытаў закляцце, павінен пакласці сабе ў інвентар Стомленасць, якая займае адзін слот у інвентары. Калі заклён чытаецца ў бяспецы і чараўнік мае дастаткова часу, персанаж гульца можа _пашырыць_ уплыў заклёна. Напрыклад, на некалькі цэляў адначасова, альбо павысіць сілу чар. Калі персанаж гульца мае незадаволеныя патрэбы ці ў небяспецы, Наглядчык можа патрабаваць, каб персанаж гульца прайшоў праверку Волі, каб пазбегнуць дрэнных наступстваў чаравання. Адмоўныя наступствы заклёна адпавядаюць яго прызначэнню і могуць выклікаць Стомленасць, траўму, знішчэнне кнігі закляццяў і нават смерць чараўніка.
 
 ### Рэліквіі
-**Рэліквіі** - гэта рэчы, прасякнутыя чарамі ці таямнічай сілай. Яны не выклікаюць стомленасць. Рэліквіі звычайна можна выкарыстаць абмежаваную колькасць разоў. Пасля гэтага, каб імі карыстацца далей, трэба выканаць ўмовы перазарадкі. Напрыклад:
+**Рэліквіі** - гэта рэчы, прасякнутыя чарамі ці таямнічай сілай. Яны не выклікаюць стомленасць. Рэліквіі звычайна можна выкарыстаць абмежаваную колькасць разоў. Пасля гэтага, каб імі карыстацца далей, трэба выканаць умовы перазарадкі. Напрыклад:
 
-**Honeyclasp** , 3 зарады. Іржвы пярсцёнак, які, калі яго надзець, памяншае ваш рост да 6 цаляў. Перазарадка: пакладзіце ў кубачак памерам з напарстак, напоўнены каралеўскім жэле.
+**Мядовік** , 3 зарады. Іржавы пярсцёнак, які, калі яго надзець, памяншае ваш рост да 6 цаляў. Перазарадка: пакладзіце ў кубачак памерам з напарстак, напоўнены каралеўскім жэле.
 
-**Сябра сакольніка**, 1 зарад. Палачка ў форме стралы, якая ўтрымлівае чары _Хуткасць_. Перазарадк: стрэльні ёй з арбалета і адшукай.
+**Сябра сакольніка**, аднаразовая. Палачка ў форме стралы, якая ўтрымлівае чары _Хуткасць_. Перазарадка: стрэльні ёй з арбалета і адшукай.
 
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+**Посах цішыні** , аднаразовы. Гэта счарнелая палка часова блакуе ўсю магію ў межах пяцідзесяці стоп. Перазарадка: выкупай посах у святле поўні.
 
-**Благушка** , аднаразовая. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Благушка** , аднаразовая. Той, хто з’еў гэты грыб з зялёнымі плямамі, пазбаўляецца стомленасці, але мусіць прайсці праверку Волі, каб не стаць залежным ад грыба. Калі гулец праваліць праверку, у яго з’явіцца **незадаволеная патрэба**, і ён не зможа засяродзіцца, пакуль не з’есць яшчэ адну благушку. Але неўзабаве сімптомы залежнасці вернуцца.
 
-## Combat
+## Бой
 
-### Rounds
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+### Раўнды
+Гульня звычайна ідзе без строгага падліку часу. У баі ці ў іншых абставінах, дзе падлік часу патрэбен, ужывайце раўнды, каб адсочваць паслядоўнасць падзей. **Раўнд** - гэта прыкладна дзесяць секунд унутрыгульнявога часу, цягам якіх робяцца хады.
 
-### Actions
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
+### Дзеянні
+У свой ход персанажы гульцоў могуць прайсці да сарака стоп і зрабіць адно дзеянне (чараваць, атакаваць, перасунуцца яшчэ раз альбо іншае дарэчнае дзеянне).
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+Кожны раўнд гульцы аб’яўляюць, што яны збіраюцца зрабіць, да таго, як кінуць косці. Калі персанаж спрабуе зрабіць нешта рызыкоўнае, Наглядчык патрабуе ад гульца ці негульнявога персанажа прайсці праверку.
 
-### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
-</details>
-
-### Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+### Хады
+Наглядчык мусіць намякаць на найбольш верагодныя дзеянні негульнявых персанажаў і монстраў. На пачатку боя, кожны гулец павінен зрабіць праверку Спрыту, каб дзейнічаць раней за ворагаў.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Прыклад
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
+  _Бэла выпадкова трапіла на тэрыторыю вялізнага Ляснога Троля. Каб пахадзіць раней за Троля, яна мусіць прайсці праверку Спрыту. Яна праваліла праверку, і Троль атрымаў магчымасць атакаваць першым._
 </details>
 
-### Multiple Attackers
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+### Атакі і Ўрон
+Нападнік кідае косць сваёй зброі і аднімае значэнне брані цэлі ад выніка. Рэшта аднімаецца ад HP цэлі. Няўзброеныя атакі заўсёды наносяць 1d4 урону.
+
+<details markdown="block">
+  <summary>
+    Прыклад
+ </summary>
+  _Лясны Троль з рыкам замахваецца сваёй дубінай на Бэлу, у якой засталося 5 HP. Дубіна наносіць 1d10 урону, і Наглядчык выкінуў 4. Бэла носіць скураны даспех з 1 брані, таму 1 аднімаецца ад урона. 5 HP - 3 урону пакідаюць Бэлу з 2 HP._
+</details>
+
+### Некалькі нападнікаў
+Калі некалькі нападнікаў атакуюць адну цэль, кінь усе косці ўрону і абяры найвышэйшы вынік.
 
 ### Attack Modifiers
 If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
