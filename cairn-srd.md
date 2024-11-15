@@ -695,46 +695,43 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
   <summary>
     Прыклад
  </summary>
-  _Лясны Троль з рыкам замахваецца сваёй дубінай на Бэлу, у якой засталося 5 HP. Дубіна наносіць 1d10 урону, і Наглядчык выкінуў 4. Бэла носіць скураны даспех з 1 брані, таму 1 аднімаецца ад урона. 5 HP - 3 урону пакідаюць Бэлу з 2 HP._
+  _Лясны Троль з рыкам замахваецца сваёй дубінай на Бэлу, у якой засталося 5 HP. Дубіна наносіць 1d10 урону, і Наглядчык выкінуў 4. Бэла носіць скураны даспех з 1 брані, таму 1 аднімаецца ад урону. 5 HP - 3 урону пакідаюць Бэлу з 2 HP._
 </details>
 
 ### Некалькі нападнікаў
 Калі некалькі нападнікаў атакуюць адну цэль, кінь усе косці ўрону і абяры найвышэйшы вынік.
 
-### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+### Мадыфікатары атакі
+Калі бой адбываецца ў няўдалых абставінах (са звязанымі рукамі ці праз барыкаду), атака адбываецца з **перашкодай**: нападнік павінен кідаць 1d4 урону незалежна ад таго, якой зброяй ён карыстаецца.
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+Калі бой адбываецца ва ўдалых абставінах (супраць бездапаможнага ворага ці праз паспяховы дзёрзкі манёўр), атака адбываецца з **перавагай**: нападнік кідае 1d12 замест яго звычайнай косці.
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+### Дзве зброі адначасова
+Калі нападнік можа атакаваць дзвюма зброямі адначасова, кінь абедзве косці і абяры найвышэйшы вынік.
 
-### Blast
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+### Атака па плошчы
+**Атакі па плошчы** наносяць урон кожнай цэлі ў закранутай прасторы, урон кідаецца кожнай цэлі асобна. Да атак па плошчы адносяцца напрыклад, выбухі, чары і размашыстыя ўдары. Калі не ўпэўнены, колькі персанажаў закранутыя атакай, кіньце косць урону, каб вызначыць.
 
 ### Крытычны Ўрон
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+Калі ўрон большы за HP, зрабіце HP роўным нулю за кошт урону, а рэшту ўрону адніміце ад Сілы цэлі. Затым цэль павінна прайсці праверку Сілы, каб пазбегнуць **крытычнага ўрону**. Некаторыя ворагі маюць здольнасці ці рысы, якія правакуюцца, калі цэль правальвае праверку супраць крытычнага ўрону.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+Калі персанаж гульца атрымлівае крытычны ўрон, ён можа толькі слаба караскацца, чапляючыся за жыццё. Калі персанаж атрымае дапамогу і адпачынак, ён стабілізуецца. Калі яго пакінуць без дапамогі, персанаж памрэ цягам гульнявой гадзіны.
 
-### Ability Score Loss
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+### Страта значэнняў здольнасцей
+Калі Сіла персанажа паніжаецца да 0, ён памірае. Калі Спрыт паніжаецца да 0, персанаж паралізаваны. Калі Воля персанажа паніжаецца да 0, персанаж упадае ў забыццё.
+Поўная страта Спрыту і Волі робіць персанажа няздольным да дзеянняў, пакуль яны не ўзновяцца праз працяглы адпачынак ці праз звышнатуральныя сродкі.
 
-### Шнары
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](#шнары-1) table for more.
+### Непрытомнасць і Смерць
+Калі персанаж памірае, гулец можа стварыць новага персанажа альбо бярэ кантроль над наймітам. Яны адразу ж далучаюцца да групы, каб не запавольваць гульню.
 
-### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+### Атрады
+Вялікія групы падобных ваяроў, якія змагаюцца разам, дзейнічаюць як адзін **атрад**. Калі атрад атрымлівае крытычны ўрон, ён збягае з поля боя альбо значна слабее. Калі Сіла атрада зніжаецца да 0, атрад знішчаны.
 
-### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+Атакі асобных нападнікаў супраць атрадаў адбываюцца з **перашкодай** (за выключэннем урону па плошчы).
+Атакі атрадаў супраць асобных нападнікаў адбываюцца з **перавагай** і наносяць урон па плошчы.
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
-
-### Retreat
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+### Адступленне
+Пабег з адчайнай сітуацыі патрабуе паспяховай праверкі Спрыту і наяўнасці бяспечнага месца для адступлення.
 
 ### Шнары
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
