@@ -734,10 +734,12 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 Пабег з адчайнай сітуацыі патрабуе паспяховай праверкі Спрыту і наяўнасці бяспечнага месца для адступлення.
 
 ### Шнары
+Калі атака зніжае HP героя роўна да 0, часам яны незваротна змяняюцца. Персанаж атрымлівае новую рысу з табліцы ніжэй у залежнасці ад таго, колькі ўрону нанесла атака:
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
 
 |      |                                                              |
 |------ |---|
+| 1| Трывалы шнар: Кінь 1d6 &#124; 1: Шыя, 2: Рукі, 3: Вока, 4: Грудзі, 5: Ногі, 6: Вуха. Кінь 1d6. Калі вынік большы за цяперашняе HP, гэта новае HP персанажа. |
 | 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
 | 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
 | 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
