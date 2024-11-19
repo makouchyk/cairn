@@ -734,7 +734,7 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 Пабег з адчайнай сітуацыі патрабуе паспяховай праверкі Спрыту і наяўнасці бяспечнага месца для адступлення.
 
 ### Шнары
-Калі атака зніжае HP героя роўна да 0, часам яны незваротна змяняюцца. Персанаж атрымлівае новую рысу з табліцы ніжэй у залежнасці ад таго, колькі ўрону нанесла атака:
+Калі атака зніжае HP героя роўна да 0, часам ён незваротна змяняецца. Колькасць урону вызначае, як атака паўплывала на персанажа. Глядзі табліцу ніжэй:
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
 
 |      |                                                              |
@@ -742,9 +742,13 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 1| Трывалы шнар: Кінь 1d6 &#124; 1: Шыя, 2: Рукі, 3: Вока, 4: Грудзі, 5: Ногі, 6: Вуха. Кінь 1d6. Калі вынік большы за цяперашняе HP, гэта новае HP персанажа. |
 | 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
 | 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
+| 2| Грымотны ўдар: вы дэзарыентаваныя і пахіснутыя. Апішыце, як вы збіраецеся з сіламі. Кінь 1d6. Калі вынік большы за вашае максімальнае HP, гэта новае HP персанажа. |
 | 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
+| 3| Вы збітыя: ўдар падымае вас у паветра, і вы падаеце тварам на зямлю. Незадаволеная патрэба, пакуль не адпачняце некалькі гадзін. Пасля кінь 1d6. Дадай вынік да максімальнага HP персанажа. |
 | 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
+| 4| Пералом: кінь 1d6 &#124; 1-2: нага, 3-4: рука, 5: рабро, 6: чэрап. Кінь 2d6, калі пералом загаіцца. Калі вынік большы за максімальнае HP, гэта новае HP персанажа. |
 | 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
+| 5| Хвароба: вы падхапілі агідную інфекцыя, якая прычыняе вам дыскамфорт. Калі ачуняеце, кіньце 2d6. Калі сума большая за максімальнае HP, гэта новае HP персанажа. |
 | 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
 | 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
 | 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
