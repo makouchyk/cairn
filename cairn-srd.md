@@ -744,12 +744,19 @@ Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in ot
 | 4| Пералом: кіньце 1d6 &#124; 1-2: нага, 3-4: рука, 5: рабро, 6: чэрап. Кіньце 2d6, калі пералом загаіцца. Калі вынік большы за максімальнае HP, гэта новае HP персанажа. |
 | 5| Хвароба: вы падхапілі агідную інфекцыю, якая прычыняе вам дыскамфорт. Калі ачуняеце, кіньце 2d6. Калі сума большая за максімальнае HP, гэта новае HP персанажа. |
 | 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
+| 6| Траўма галавы: кіньце 1d6 каб выбраць здольнасць &#124; 1-2: моц, 3-4: спрыт, 5-6: воля. Кіньце 3d6. Калі сума большая за цяперашняе значэнне здольнасці, гэта новае значэнне выбранай здольнасці. |
 | 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
+| 7| Надарванае сухажылле: вы ледзьве здольныя рухацца і патрабуеце сур'ёзнай дапамогі і адпачынку. Кіньце 3d6, як узновіцеся. Калі сума большая за максімальнае значэнне спрыту, гэта новы спрыт персанажа. |
 | 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
+| 8| Глухата: вы не чуеце нічога, пакуль не атрымаеце звышнатуральную дапамогу. Прайдзіце праверку волі. Калі яна паспяховая, павялічце максімальную волю персанажа на 1d4. |
 | 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
+| 9| Адбітыя глузды: невядомая дагэтуль частка вашай псіхікі выбітая на волю. Кіньце 3d6. Калі вынік большы за максімальнае значэнне волі, гэта новае значэнне волі персанажа. |
 | 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
+|10| Калецтва: наглядчык выбірае канечнасць персанажа. Яна адарваная, пашкоджаная ці яшчэ нейкім чынам бескарысная. Прайдзіце праверку волі. Калі яна паспяховая, павысце максімальнае значэнне волі персанажа на 1d6. |
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
+|11| Смяротная рана: вы атрымліваеце незадаволеную патрэбу і не можаце дзейнічаць. Вы памраце цягам гадзіны, калі вас не вылечаць. Калі вы ачунялі, кіньце 2d6. Вынік гэта новае максімальнае HP персанажа. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+|12| Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
 [вярнуцца да зместу](#index)
 
